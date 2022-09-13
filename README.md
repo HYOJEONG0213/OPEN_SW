@@ -6,7 +6,7 @@ Hello!
 ▪ School: Seoul National University of Science and Technology
 ▪ School number: 21101199
 ▪ Hobby
-* :game: 
+* :video_game:  
     - **Maple Story** :maple_leaf:
     - **Tales Runner**:  :roller_skate:
 
