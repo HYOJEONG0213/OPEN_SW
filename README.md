@@ -12,5 +12,9 @@ Hello!
     * **Maple Story** :maple_leaf:
     * **Tales Runner**  :athletic_shoe: 
     * ~~**Grand Chase**~~
+- :notebook_with_decorative_cover: 
+    * **My S Class**
+    * **Return of the Blossoming Blade**
 
+    
 Nice meet you! :smile:
