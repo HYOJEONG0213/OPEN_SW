@@ -12,6 +12,6 @@ Hello!
 - :video_game:  
     * **Maple Story** :maple_leaf:
     * **Tales Runner**  :woman_running: 
-    * ~~ **Grand Chase** ~~
+    * ~~**Grand Chase**~~
 
 Nice meet you! :smile:
