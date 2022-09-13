@@ -8,6 +8,6 @@ Hello!
 ▪ Hobby
 * :video_game:  
     - **Maple Story** :maple_leaf:
-    - **Tales Runner**:  :roller_skate:
-
+    - **Tales Runner**  :woman_running: 
+    ~~- **Grand Chase** ~~
 Nice meet you! :smile:
